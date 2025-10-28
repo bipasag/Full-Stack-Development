@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+# Ignore node_modules folder
+>>>>>>> 1ed0be2 (ignore node modules)
 node_modules/
