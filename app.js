@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const express = require("express");
 const app = express();
 
@@ -34,3 +35,6 @@ const port = 4000;
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
+=======
+nodemon yourServerFile.js
+>>>>>>> 1243d06 (Add week 2 API project files)
